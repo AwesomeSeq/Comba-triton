@@ -1,6 +1,6 @@
 <div align="center">
     
-# Improving Nonlinear RNNs with Closed-loop Control
+# Improving Bilinear RNNs with Closed-loop Control
 [Paper Link](https://arxiv.org/pdf/2506.02475)
 
 
