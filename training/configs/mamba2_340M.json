@@ -1,0 +1,8 @@
+{ "use_gate": true,
+  "hidden_size": 1024,
+  "model_type": "mamba2",
+  "num_heads": 32,
+  "head_dim": 64,
+  "initializer_range": 0.006,
+  "num_hidden_layers": 48,
+  "tie_word_embeddings": true}

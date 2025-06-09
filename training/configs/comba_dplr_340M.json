@@ -1,0 +1,13 @@
+{ "expand_v": 1,
+  "use_gate": true,
+  "fuse_cross_entropy": true,
+  "fuse_norm": true,
+  "hidden_size": 1024,
+  "model_type": "comba",
+  "num_heads": 4,
+  "head_dim": 256,
+  "initializer_range": 0.006,
+  "num_hidden_layers": 24,
+  "A_type": "dplr",
+  "qk_sim": true,
+  "tie_word_embeddings": true}
