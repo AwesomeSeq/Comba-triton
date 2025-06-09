@@ -5,6 +5,7 @@
 
 ## ✅ TODO
 
+- [ ] Check the code.
 - [ ] The code is scheduled to be integrated into the Flash-Linear-Attention repository(https://github.com/fla-org/flash-linear-attention).
 
 
