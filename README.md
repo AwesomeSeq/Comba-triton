@@ -3,6 +3,8 @@
 # Improving Bilinear RNNs with Closed-loop Control
 [Paper Link](https://arxiv.org/pdf/2506.02475)
 
+[中文介绍](https://github.com/AwesomeSeq/Comba-triton/blob/main/comba_chinese/paper.md)
+
 
 <div align="left">
     
