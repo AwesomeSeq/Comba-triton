@@ -2,6 +2,10 @@
 
 近日由香港科技大学广州与上海AI Lab联合发布了一项研究成果：Improving Bilinear RNNs with Closed-loop Control，该文章首先对最近高效序列建模方法，包括Transformer，线性注意力，状态空间模型的发展进行了全面的总结，将近期提出的RWKV7，Gated-DeltaNet等模型归结为Bilinear RNN并分析了其理论优势。随后该文章提出了一种新型的递归模型架构Comba，采用标量加低秩（SPLR）状态变换以及输出矫正技术，基于Triton实现了硬件友好的分块并行优化，由于SPLR的结构优势，Comba只需要计算一次逆矩阵，从而在前向传播相比Gated-DeltaNet提升了40%的速度，并在CV，NLP等多项任务上取得SOTA效果。代码已开源并即将整合到FlashLinearAttention库中。
 
+<div align="center">  
+<img src="figure/title.png" style="width: 95%;" />  
+</div>
+
 \
 **论文标题**
 <br />
