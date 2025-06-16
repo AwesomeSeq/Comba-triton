@@ -12,10 +12,11 @@
 
 ## 🔗 Citation
 
+```bibtex
 @article{hu2025comba,
   title={Comba: Improving Nonlinear RNNs with Closed-loop Control},
   author={Hu, Jiaxi and Pan, Yongqi and Du, Jusen and Lan, Disen and Tang, Xiaqiang and Wen, Qingsong and Liang, Yuxuan and Sun, Weigao},
   journal={arXiv preprint arXiv:2506.02475},
   year={2025}
 }
-
+```
